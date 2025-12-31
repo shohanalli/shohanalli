@@ -53,9 +53,8 @@ I enjoy turning complex problems into simple, user-friendly solutions and contin
 
 ## 📊 GitHub Stats
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Commits](https://img.shields.io/badge/Commits-198-green)
+![PRs](https://img.shields.io/badge/PRs-10-blue)
+![Repositories](https://img.shields.io/badge/Repos-48-yellow)
 
 
