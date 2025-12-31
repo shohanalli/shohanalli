@@ -24,16 +24,16 @@
 
 ## 📫 Connect With Me
  <a href="https://github.com/shohanalli">
-<img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+<img alt="GitHub" title="GitHub" height="35" width="35" src="https://cdn.simpleicons.org/github">
  </a>
  <a href="https://www.facebook.com/programmershohan">
-<img height="48" width="48" src="https://cdn.simpleicons.org/facebook">
+<img height="35" width="35" src="https://cdn.simpleicons.org/facebook">
  </a>
  <a href="http://wa.me/+8801706727408">
-<img height="48" width="48" src="https://cdn.simpleicons.org/whatsapp">
+<img height="35" width="35" src="https://cdn.simpleicons.org/whatsapp">
  </a>
  <a href="https://shohan-dev.vercel.app/">
-<img height="48" width="48" src="https://cdn.simpleicons.org/googlechrome">
+<img height="35" width="35" src="https://cdn.simpleicons.org/googlechrome">
  </a>
 
 
