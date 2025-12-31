@@ -37,7 +37,25 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome">
  </a>
 
+## 👋 About Me
 
+I’m a passionate Full Stack MERN Developer with hands-on experience in building modern, scalable web applications.  
+I specialize in JavaScript, React, Next.js, Node.js, Express, and MongoDB, focusing on clean code and performance.  
+I enjoy turning complex problems into simple, user-friendly solutions and continuously learning new technologies.
 
+## 🚀 Current Activities
+
+- Building and deploying full-stack web applications using **MERN stack** and **Next.js**  
+- Exploring **Tailwind CSS** and **DaisyUI** for modern, responsive UI designs  
+- Learning **Firebase** for authentication and real-time database integration  
+- Contributing to **open-source projects** on GitHub to improve coding skills  
+- Staying updated with the latest **JavaScript and web development trends**
+
+## 📊 GitHub Stats
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
