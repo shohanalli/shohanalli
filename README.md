@@ -19,6 +19,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+
+## 📫 Connect With Me
+ <a href="https://github.com/shohanalli">
+<img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+ </a>
+ <a href="https://www.facebook.com/programmershohan">
+<img height="48" width="48" src="https://cdn.simpleicons.org/facebook">
+ </a>
+ <a href="http://wa.me/+8801706727408">
+<img height="48" width="48" src="https://cdn.simpleicons.org/whatsapp">
+ </a>
+ <a href="https://shohan-dev.vercel.app/">
+<img height="48" width="48" src="https://cdn.simpleicons.org/googlechrome">
+ </a>
+
+
+
+
 
